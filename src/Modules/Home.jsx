@@ -4,7 +4,6 @@ import Box from '@mui/material/Box';
 import Toolbar from '@mui/material/Toolbar';
 import Container from '@mui/material/Container';
 
-
 import Footer from './Footer/Footer'
 import Header from './Header/Header';
 import Sidebar from './Sidebar/Sidebar';

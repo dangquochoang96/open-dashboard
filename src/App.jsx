@@ -4,6 +4,8 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Dashboard from './Components/Dashboard/Dashboard';
 import Posts from './Components/Posts/Posts';
 import Setting from './Components/Setting/Setting'
+import { LineChart } from './Components/Dashboard/Chart/LineChart';
+import { ColumnChart } from './Components/Dashboard/Chart/ColumnChart';
 
 const App = () => {
   return (
